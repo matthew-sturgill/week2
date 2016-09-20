@@ -1,0 +1,81 @@
+
+
+body{
+    background-color: greenyellow;
+    cursor: crosshair;
+
+}
+h1{
+    color: purple;
+    margin: 25px;
+    height: 30px;
+    font-family: impact;
+    font-size: 40px;
+}
+h4{
+    width: 250px;
+    margin-left: 630px;
+   
+}
+.top-left-pic img{
+    border-radius: 5px;
+    float: left;
+    height: 50px;
+    width: 70px;
+}
+.nav-mods{
+    background-color: hotpink;
+    font-family: impact;
+    color: black;
+    height: 45px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+li{
+    list-style: none;
+    display: inline;
+    padding-right: 60px;
+    text-decoration: underline;
+    font-size:25px;
+
+}
+#banner img{
+    width: 290%;
+    height: 70%;
+    margin-left: 20px;
+    border-style: solid;
+    border-width: 4px;
+    float: left;
+    border-color: orange;
+}
+#feature-image img{
+    height: 130%;
+    width: 25%;
+    border-style: solid;
+    border-width: 4px;
+    border-color: orange;
+    margin-bottom: -23px;
+    margin-left: 565px;
+    
+
+
+   
+      
+}
+.middle-body{
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+#image-squares img{
+    height: 160px;
+    width: 160px;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: orange;
+}
+footer{
+    text-align: center;
+    font-family: impact;
+}

@@ -1,0 +1,71 @@
+html{
+    width: auto;
+}
+body{
+    background-color: black;
+    cursor: crosshair;
+    width: auto;
+}
+h1{
+    color:deeppink;
+    margin: 25px;
+    height: 30px;
+    font-family: impact;
+    font-size: 40px;
+}
+.top-left-pic img{
+    float: left;
+    height: 50px;
+    width: 50px;
+}
+.nav-mods{
+    background-color:deeppink;
+    font-family: impact;
+    color: black;
+    height: 45px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+li{
+    list-style: none;
+    display: inline;
+    padding-right: 60px;
+    text-decoration: underline;
+    font-size:25px;
+}
+#banner img{
+    width: 700px;
+    height: auto;
+    border-style: solid;
+    border-width: 4px;
+    border-color:deeppink;
+    margin-left:-50px;
+}
+#feature-image img{
+    height: 340px;
+    width: 250px;
+    border-style: solid;
+    border-width: 4px;
+    border-color:deeppink;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+#feature-image{
+    color: deeppink;
+    font-family: impact;
+    margin-bottom: 50px;
+    width: 250px;
+}
+#image-squares img{
+    height: 160px;
+    width: 160px;
+    margin-top: 20px;
+    border-style: solid;
+    border-width: 4px;
+    border-color:deeppink;
+}
+footer{
+    text-align: center;
+    font-family: impact;
+    color: deeppink;
+}
